@@ -1,0 +1,39 @@
+*{
+    background:#eefbfb}
+div{
+    font-family:Arial;
+    border-radius:5px;
+    height:100px;
+    width:150px;
+    background-color:#a0d6b4;
+}
+#header{
+    font-family:Arial;
+    color:white;
+    font-size:20px;
+    position:fixed;
+    z-index:1;
+    height:30px;
+    width:97%;
+    padding-top:5px;
+    background:#2F4F4F;
+}
+#footer{
+    clear:both;
+    position:absolute;
+    height:20px;
+    width:97%
+}
+.left{
+    float:left;
+    height:500px;
+    width:20px;
+    margin-top:40px;
+}
+.right{
+    float:right;
+    height:500px;
+    width:93%;
+    margin-top:40px;
+    
+}
